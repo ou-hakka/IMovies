@@ -1,0 +1,6 @@
+{
+  "name": "The IMovies - Online Cinema & Ticket Booking",
+  "description": "A seamless MERN-stack online cinema platform to browse movies, select showtimes, and reserve seats with real-time availability tracking and JWT authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
